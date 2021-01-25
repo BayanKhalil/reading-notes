@@ -12,3 +12,8 @@ this repo is for growth mindset
 3. Working on one’s flaws
 
 ***read more about growth mindset it will add alot for you***
+
+
+added stuff
+
+added more stuff
