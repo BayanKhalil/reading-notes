@@ -17,3 +17,5 @@ this repo is for growth mindset
 added stuff
 
 added more stuff
+
+####copyright
