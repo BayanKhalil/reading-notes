@@ -6,7 +6,7 @@ this repo is for growth mindset
 
 
 ![growh mindset](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter.png)
-# keep yourself in a growth mindset by these steps:*
+# keep yourself in a growth mindset by these steps:
 1. dedication of time
 2. effort and energy
 3. Working on one’s flaws
