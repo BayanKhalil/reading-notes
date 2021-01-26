@@ -20,6 +20,7 @@ website,and how to ensure that your page contanin and  features information  tho
   show how to structure documents by HTML code
   HTML code its alanguage to struct pages on browser
   it use elements has an opening and closing tags to describe the structure 
+  
   ![html code](https://miro.medium.com/max/498/1*5gJzummAqpBDGATo0fjU6Q.jpeg)
 
   To learn HTML you need to know what tags are available for you to use.  
