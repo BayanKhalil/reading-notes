@@ -1,6 +1,6 @@
 # Reading-notes
 
-## processes you’d want to follow to make a new site
+## NOTES
 
 ### chapter 18
  show a process that you can use when you are creating a new
