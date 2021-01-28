@@ -16,7 +16,7 @@ we have tow components to a decision:
  1. an expression is evaluated (evaluating conditions)
  2. a conditional statement (if else statement)
 
-type of loops :
+types of loop :
 
  while :Loops can execute a block of code as long as a specified condition is true.
 
