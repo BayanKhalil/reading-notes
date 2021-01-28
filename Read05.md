@@ -16,10 +16,12 @@ we have tow components to a decision:
  1. an expression is evaluated (evaluating conditions)
  2. a conditional statement (if else statement)
 
+type of loops :
+
  while :Loops can execute a block of code as long as a specified condition is true.
 
  for :Loops can execute a block of code a number of times.
- 
+
      for (var i ; i<10; i++){
          document.write (i);
      }
