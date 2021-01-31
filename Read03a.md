@@ -13,7 +13,7 @@ website,and how to ensure that your page contanin and  features information  tho
 *  How to organize information by (Wireframes)
 * Design theory for presenting information Visual hierarchy helps
   visitors understand what you are trying to tell them.
-* Design tips to help you create more attractive and professional sites using     grouping and similarity.
+* Design tips to help you create more attractive and professional sites using  grouping and similarity.
 
 
 ### chapter 1 
@@ -34,10 +34,10 @@ its structure.
 MARKUP
 1. DOCTYPES tell browsers which version of HTML we are using.
 2. You can add comments to your code between the <!-- and --> markers.
-3. The <id> and <class> attributes allow you to identify particular elements.
-4.  The <div> and <span> elements allow you to group block-level and inline     elements together.
-5.  <iframes> cut windows into your web pages through which other pages can be displayed.
-6.  The <meta> tag allows you to supply all kinds of information about your web page.
+3. The <em> id </em> and <b>class</b> attributes allow you to identify particular elements.
+4. The <b>div</b> and <b>span</b> elements allow you to group block-level and inline     elements together.
+5. <b>iframes</b> cut windows into your web pages through which other pages can be displayed.
+6. The <b>meta</b> tag allows you to supply all kinds of information about your web page.
 
 
 
