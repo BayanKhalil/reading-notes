@@ -42,6 +42,15 @@ p {
 ![important selectors](img/selectors.png)
 
 
+# color
+You can specify any color in one of three ways:
+- RGB values
+- HEX code
+- COLOR name
+
+
+
+
 
 # functions
 Functions let you group a series of statements together to perform aspecific task.
