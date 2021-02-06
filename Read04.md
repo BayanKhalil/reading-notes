@@ -1,6 +1,5 @@
 #  JAVASCRIPT NOTES
 
-# Intro
 
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages displaying interactive maps, animated 2D/3D graphics, etc.
 
