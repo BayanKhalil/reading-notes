@@ -16,7 +16,7 @@ Name   | link | description
 -------|------|------------
 class-01   | [link](201/class-01.md) |  HTML ch(1.8,17,18) JavaScript (intro, ch1)
 Read1      | [read1](201/read1.md)   |  HTML ch(2,10) JavaScript ch(2,4)
-Read2      | [read2](201/read2.md)   |
+Read2      | [read2](201/read2.md)   |  HTML ch(3,13) JavaScript ch(2,4)
 Read3      | [read3](201/read3.md)   |
 Read4      | [read4](201/read4.md)   |
 Read5      | [read5](201/read5.md)   |
