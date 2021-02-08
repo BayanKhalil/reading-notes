@@ -82,7 +82,7 @@ border: 3px dotted #0088dd;}
     ## switch statement
    A switch statement starts with avariable called the switch value.Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
-    ```
+```
    switch (level) {
      case 'O ne ':
      title= 'Level 1 ' ;
@@ -94,12 +94,12 @@ border: 3px dotted #0088dd;}
      title= 'Test';
         break;
    }
-   ```
+```
 
    ## datatype
 
    If you use a data type JavaScript did not expect, it tries to make sense of the operation rather than report an error.
-   
+
 DATA TYPE 
 string=> Text
 number=> Number
