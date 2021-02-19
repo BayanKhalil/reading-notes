@@ -24,7 +24,7 @@ Read6      | [read6](201/read6.md)   |  HTML ch(6) JavaScript ch(3) articles abo
 Read7      | [read7](201/read7.md)   |  HTML ch(15)
 Read8      | [read8](201/read8.md)   |  
 Read9      | [read9](201/read9.md)   |  JavaScript ch(10)
-Read10     | [read10](201/read10.md)  |
+Read10     | [read10](201/read10.md)  | HTML ch(16, 19)  ( Images ,Practical Information)
 Read11     | [read11](201/read11.md)  |
 Read12     | [read12](201/read12.md)  |
 Read13     | [read13](201/read13.md)  |
