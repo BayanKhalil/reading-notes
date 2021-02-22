@@ -26,7 +26,7 @@ Read8      | [read8](201/read8.md)   |
 Read9      | [read9](201/read9.md)   |  JavaScript ch(10)
 Read10     | [read10](201/read10.md)  | HTML ch(16, 19)  ( Images ,Practical Information)
 Read11     | [read11](201/read11.md)  | Basic usage ,Drawing shapes with canvas,Applycolors and text
-Read12     | [read12](201/read12.md)  |
+Read12     | [read12](201/read12.md)  | Local Storage
 Read13     | [read13](201/read13.md)  |
 Read14     | [read14](201/read14.md)  |
 Read15     | [read15](201/read15.md)  |
