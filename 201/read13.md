@@ -3,7 +3,9 @@
 
 # Transforms
 1. **2D Transforms**
+
   * 2D rotate ,2D Scale,2D Translate 
+
   ```
   html>>>> <figure class="box-1">Box 1</figure>
   css>>>>>
@@ -15,6 +17,7 @@
        }
 
   ```
+
    and we can specify the scale for x ,y
 
 
@@ -24,7 +27,9 @@
 
 
 2. **3D Transforms**
+
 it workes as  the same elements of 2D and in the same way but we have to give it avalue for z-axies dimentioal and in additio in transform style On occasion three-dimensional transforms will be applied on an element that is nested within a parent element which is also being transformed and Backface Visibility
+
  ```
  <div class="rotate three-d">
 <figure class="box">Box 1</figure>
@@ -46,6 +51,7 @@ There are four transition related properties in total, including transition-prop
 2. The duration in which a transition takes place is set using the transition-duration property
 3. The transition-timing-function property is used to set the speed in which a transition will move
 4.  The delay sets a time value, seconds or milliseconds, that determines how long a transition should be stalled before executin
+
 ```
 .box {
   background: #2db34a;
@@ -61,14 +67,19 @@ There are four transition related properties in total, including transition-prop
 }
 
 ```
+
+
 *  there is a shorthand property, `transition`, capable of supporting all of these different properties and values. Using the transition value alone, you can set every transition value in the order of transition-property, transition-duration, transition-timing-function, and lastly transition-delay ` transition: background .2s linear, border-radius 1s ease-in 1s`
 
 # Animations
+
 1. To set multiple points at which an element should undergo a transition, use the `@keyframes` rule
 2. animations behave similarly to transitions. They include a duration, timing function, and delay if desired
 3. On top of being able to set the number of times an animation repeats, you may also declare the direction an animation completes using the animation-direction property. Values for the animation-direction property include normal, reverse, alternate, and alternate-reverse
 4. The animation-play-state property allows an animation to be played or paused using the running and paused keyword values respectivel
 5. The animation-fill-mode property identifies how an element should be styled either before, after, or before and after an animation is run
+
+
 ```
 .stage:hover .ball {
   animation-name: slide;
@@ -83,8 +94,11 @@ There are four transition related properties in total, including transition-prop
 
 ```
 
+
 * shorthand animation can be written out in a shorthand format. This is accomplished with one `animation` property, rather than multiple declarations. The order of values within the animation property should be animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, and lastly animation-play-state
+
 `  animation: slide 2s ease-in-out .5s infinite alternate;`
+
 
 1. Fade in `.fade{opacity:0.5;}  .fade:hover{opacity:1;}` 
 2. Change color ` .color:hover{background:#53a7ea;} `
