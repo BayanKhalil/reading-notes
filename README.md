@@ -1,6 +1,9 @@
-this is bayan khalil ,i aspire about software development,this is my first project about git and github
+# Reading Notes
 
-# Code 102 Reading Notes
+this is bayan khalil ,i aspire to be software developer
+this website can help you to read summarize about differentes subject in software development.
+
+# Code 102 - Intro to Software Development
 
 lab no | link
 -----|-----
@@ -10,7 +13,7 @@ Read 04 | [link](102/Read04.md)
 Read 05 |[link](102/Read05.md)
 Read 06 |[link](102/Read06.md)
 
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 Name   | link | description
 -------|------|------------
@@ -29,7 +32,9 @@ Read11     | [read11](201/read11.md)  | Basic usage ,Drawing shapes with canvas,
 Read12     | [read12](201/read12.md)  | Local Storage
 Read13     | [read13a](201/read13.md)  | psychological safety talk  
 Read14     | [read13b](201/read14.md)  | CSS
-Read15     | [read15](201/read15.md)  |
+
+# Code 301 - Intermediate Software Development
+
 
 
 
