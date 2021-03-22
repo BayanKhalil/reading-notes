@@ -38,6 +38,8 @@ Read14     | [read13b](201/read14.md)  | CSS
 Name   | link | description
 -------|------|------------
 Read1  | [read1](301/read1.md) | Responsive Web Design & float
+Read2  | [read2](301/read2.md) | jQuery and Pair Programming
+
 
 
 
