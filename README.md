@@ -41,6 +41,7 @@ Read1  | [read1](301/read1.md) | Responsive Web Design & float
 Read2  | [read2](301/read2.md) | jQuery and Pair Programming
 Read3  | [read3](301/read3.md) | Templating with Mustache and flexbox
 Read4  | [read4](301/read4.md) | Grid and Regex's
+Read5  | [read5](301/read5.md) | Heroku and node.js
 
 
 
