@@ -44,6 +44,8 @@ Read4  | [read4](301/read4.md) | Grid and Regex's
 Read5  | [read5](301/read5.md) | Heroku and node.js
 Read6  | [read6](301/read6.md) | An Introduction to Node.js 
 Read7  | [read7](301/read7.md) | perfect team , REST ,SuperAgent
+Read8  | [read8](301/read8.md) | SQL
+
 
 
 
