@@ -45,6 +45,7 @@ Read5  | [read5](301/read5.md) | Heroku and node.js
 Read6  | [read6](301/read6.md) | An Introduction to Node.js 
 Read7  | [read7](301/read7.md) | perfect team , REST ,SuperAgent
 Read8  | [read8](301/read8.md) | SQL
+Read9  | [read9](301/read9.md) | Functional Programming ,Refactoring Javascript 
 
 
 
