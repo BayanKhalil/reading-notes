@@ -48,6 +48,8 @@ Read8  | [read8](301/read8.md) | SQL
 Read9  | [read9](301/read9.md) | Functional Programming ,Refactoring Javascript 
 Read10 | [read10](301/read10.md) | The Call Stack and Debugging
 Read11 | [read11](301/read11.md) | EJS
+Read12 | [read12](301/read12.md) | EJS PARTIALS
+
 
 
 
