@@ -51,6 +51,7 @@ Read11 | [read11](301/read11.md) | EJS
 Read12 | [read12](301/read12.md) | EJS PARTIALS
 Read13 | [read13](301/read13.md) | Sending form data
 Read14 | [read14](301/read14.md) | Database Normalization
+Read15 | [read15](301/read15.md) | Why diversity matters to your tech company
 
 
 
