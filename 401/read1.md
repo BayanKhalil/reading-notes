@@ -150,3 +150,8 @@ retutn;
 # what is compile code
 the compilor (usually another program) takes the program the human wrote, and converts it into the program the computer can understand whiches bunch of 0's and 1's code 
 
+# Making Sense of Java’s API Documentation
+You can find things in the API documentation in a number of different ways
+1. using the index 
+2. Using the list of classes
+
