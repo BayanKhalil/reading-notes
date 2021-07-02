@@ -65,5 +65,6 @@ Read2  |[read2](401/read2.md)| Packages and Java loops
 Read3  |[read3](401/read3.md)| Primitives vs. Objects ,Exceptions in Java,Using Scanner to read in a file in Java
 Read4  |[read4](401/read4.md)| OOP
 Read5  |[read5](401/read5.md)| Linked List
+Read6  |[read6](401/read6.md)| Inheritance and Interfaces
 
 
