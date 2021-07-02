@@ -56,5 +56,19 @@ class ACMEBicycle implements Bicycle {
  * A cast, instructs the compiler to change the existing type of an object reference to another type.
  * In Java, all casting will be checked both during compilation and during execution to ensure that they are legitimate.
 
+ 
+ > public MountainBike myBike = new MountainBike(); --> //then myBike is of type MountainBike.
+ Object obj = new MountainBike();
+
+ > Object obj = new MountainBike();    --> //then obj is both an Object and a MountainBike (until such time as obj is assigned another object that is not a MountainBike). This is called implicit casting.
+
+ >MountainBike myBike = obj;  --> incorrect
+ 
+ >MountainBike myBike = (MountainBike)obj; --> //This cast inserts a runtime check that obj is assigned a MountainBike so that the compiler can safely assume that obj is a MountainBike. If obj is not a MountainBike at runtime, an exception will be thrown
+
+
+
+ 
+
 # Package
 A package is a namespace that organizes a set of related classes and interfaces
