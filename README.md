@@ -67,4 +67,5 @@ Read4  |[read4](401/read4.md)| OOP
 Read5  |[read5](401/read5.md)| Linked List
 Read6  |[read6](401/read6.md)| Inheritance and Interfaces
 Read8  |[read8](401/read8.md)| SOLID principles
+Read9  |[read9](401/read9.md)| WRRC and Java
 
