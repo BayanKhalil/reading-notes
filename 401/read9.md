@@ -20,7 +20,7 @@
 
 * so now we have IP but we need open the TCP which is like transport layer protocol
 
-4. Send an HTTP Request
+   4. Send an HTTP Request
    1. initialize request line 
    * request header :made up of pairs in the form `name:value <CR><LF>`
    * HOST mandatory field in an HTTP request which contains the domain and port that the request is being sent to `(domain.com:8080)`
@@ -31,13 +31,13 @@
 
    using the built-in Java class <b>HttpUrlConnection<b> which  allows us to perform basic HTTP requests without the use of any additional libraries ,it's part of <b>java.net package.<b>
  
-  1. creating request
+    1. creating request
    ```
    URL url = new URL("http://example.com");
    HttpURLConnection con = (HttpURLConnection) url.openConnection();
    con.setRequestMethod("GET");
    ```
-  2. Adding Request Parameter
+    2. Adding Request Parameter
 
    ```
    Map<String, String> parameters = new HashMap<>();
@@ -62,7 +62,7 @@
     
     * it's values define the interval of time to wait for the connection to the server to be established or data to be available for reading.
 
->con.setConnectTimeout(5000);
+   >con.setConnectTimeout(5000);
      con.setReadTimeout(5000);
 
    5. Handling Cookies
@@ -82,23 +82,23 @@
 
    check if cookie called username
    ```
-   Optional<HttpCookie> usernameCookie = cookies.stream()
-  .findAny().filter(cookie -> cookie.getName().equals("username"));
-  if (usernameCookie == null) {
+    Optional<HttpCookie> usernameCookie = cookies.stream()
+    .findAny().filter(cookie -> cookie.getName().equals("username"));
+    if (usernameCookie == null) {
     cookieManager.getCookieStore().add(null, new HttpCookie("username", "john"));
-   }
-   ```
-   add the cookies to the request
-   ```
+     }
+    ```
+     add the cookies to the request
+    ```
     con.disconnect();
     con = (HttpURLConnection) url.openConnection();
 
     con.setRequestProperty("Cookie", 
     StringUtils.join(cookieManager.getCookieStore().getCookies(), ";"));
-   ```
+    ``
 
-   then handle the redirects,reading the responseand building the full response
+    hen handle the redirects,reading the responseand building the full response
 
-   [link of steps](https://www.baeldung.com/java-http-request)
+    link of steps](https://www.baeldung.com/java-http-request)
     
     
