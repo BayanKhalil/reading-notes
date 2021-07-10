@@ -57,4 +57,7 @@ Spring Expression Language : is a language that supports querying and manipulati
     Thymeleaf allows accessing beans registered at the Spring Application Context with the @beanName syntax
 
 
-
+### three main things that spring framework brings to your applications 
+1. managing your services and object instancesusing an application context managing dependencies using dependency injection
+2. providing data access to simplify connecting to and working with databases
+3. the ability to easily build web application using spring Mvc
