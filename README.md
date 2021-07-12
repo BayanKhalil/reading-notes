@@ -69,4 +69,5 @@ Read6  |[read6](401/read6.md)| Inheritance and Interfaces
 Read8  |[read8](401/read8.md)| SOLID principles
 Read9  |[read9](401/read9.md)| WRRC and Java
 Read10  |[read10](401/read10.md)| Spring MVC
+Read12  |[read12](401/read12.md)| Spring RESTful Routing & Static Files
 
