@@ -1,5 +1,6 @@
 # Spring RequestMapping
 
+* REST Api  is an application programming interface (API or web API) that conforms to the constraints of REST 
 * the annotation is used to map web requests to Spring Controller methods.
 ## RequestMapping 
 1. @RequestMapping — by Path
