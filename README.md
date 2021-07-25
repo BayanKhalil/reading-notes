@@ -73,3 +73,4 @@ Read12  |[read12](401/read12.md)| Spring RESTful Routing & Static Files
 Read13  |[read13](401/read13.md)| Related Resources and Integration Testing
 Read15  |[read15](401/read15.md)| Tree Data Structure
 Read16  |[read16](401/read16.md)| Spring Security Architecture
+Read17  |[read17](401/read17.md)| Spring Boot and OAuth2
