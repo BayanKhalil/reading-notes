@@ -75,3 +75,4 @@ Read15  |[read15](401/read15.md)| Tree Data Structure
 Read16  |[read16](401/read16.md)| Spring Security Architecture
 Read17  |[read17](401/read17.md)| Spring Boot and OAuth2
 Read18  |[read18](401/read18.md)| many-to-many relationship
+Read19  |[read19](401/read19.md)|Real time messaging with websockets
