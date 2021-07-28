@@ -1,7 +1,7 @@
 # Using WebSocket to build an interactive web application
 
 *  WebSocket is a thin, lightweight layer above TCP. This makes it suitable for using “subprotocols” to embed messages. In this guide, we use STOMP messaging with Spring
-* STOMP is a subprotocol operating on top of the lower-level WebSocket.
+* STOMP is a subprotocol operating on top of the lower-level WebSocket. is establish open conection but HTTP always you need to hit request to get response.
 
 to start
 1. git clone https://github.com/spring-guides/gs-messaging-stomp-websocket.git then unzip it
