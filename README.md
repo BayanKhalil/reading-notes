@@ -78,3 +78,4 @@ Read18  |[read18](401/read18.md)| many-to-many relationship
 Read19  |[read19](401/read19.md)|Real time messaging with websockets
 Read26  |[read26](401/read26.md)| Application Fundamentals
 Read27  |[read27](401/read27.md)| Understand Tasks and Back Stack,Save key-value data
+Read28  |[read28](401/read28.md)| Create dynamic lists with RecyclerView
