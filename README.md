@@ -80,3 +80,4 @@ Read26  |[read26](401/read26.md)| Application Fundamentals
 Read27  |[read27](401/read27.md)| Understand Tasks and Back Stack,Save key-value data
 Read28  |[read28](401/read28.md)| Create dynamic lists with RecyclerView
 Read29  |[read29](401/read29.md)|  Room
+Read30  |[read30](401/read30.md)| Hash Table Data Structure

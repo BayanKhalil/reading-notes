@@ -18,6 +18,8 @@ List<User> users = userDao.getAll();
 ```
 
 
+
+
 # Defining data using Room entities
 
 use Room entities to define the database schema without writing any SQL code
