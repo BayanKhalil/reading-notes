@@ -83,3 +83,4 @@ Read29  |[read29](401/read29.md)|  Room
 Read30  |[read30](401/read30.md)| Hash Table Data Structure
 Read31  |[read31](401/read31.md)| Espresso Test
 Read32  |[read32](401/read32.md)| Serverless
+Read33  |[read33](401/read33.md)| GraphQL @connection section
