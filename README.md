@@ -85,3 +85,4 @@ Read31  |[read31](401/read31.md)| Espresso Test
 Read32  |[read32](401/read32.md)| Serverless
 Read33  |[read33](401/read33.md)| GraphQL @connection section
 Read34  |[read34](401/read34.md)| monetization model
+Read35  |[read35](401/read35.md)| Graphs Data Structure
