@@ -88,3 +88,4 @@ Read34  |[read34](401/read34.md)| monetization model
 Read35  |[read35](401/read35.md)| Graphs Data Structure
 Read36  |[read36](401/read36.md)| Amplify and Cognito
 Read37  |[read37](401/read37.md)| S3 with Amplify
+Read38  |[read38](401/read38.md)|  Notifications
