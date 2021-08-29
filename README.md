@@ -91,3 +91,5 @@ Read37  |[read37](401/read37.md)| S3 with Amplify
 Read38  |[read38](401/read38.md)|  Notifications
 Read39  |[read39](401/read39.md)|  Amplify and Kinesis
 Read41  |[read41](401/read41.md)|  Intent Filters
+Read42  |[read42](401/read42.md)|  Location 
+Read42-2  |[read42-2](401/read42-2.md)|  Ethics in Tech
